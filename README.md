@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ bug Hunter since 2022</p>
+<p align="left">✨ Bug Hunter since 2022</p>
 
 ###
 
